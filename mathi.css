@@ -71,25 +71,7 @@
     height: fit-content;
     scroll-behavior: smooth;
 }
-.sales__content{
-    margin-left: 48px;
-    position:absolute;
-    top: 50%;
-    width: 30%;
-    padding: 30px;
-    color: azure;
-    background-color: rgb(160, 77, 238);
-    border-radius: 20px;
-    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
-}
-.sales__content h1{
-    font-size: 25px;
-    color:white;
-}
-.sales__content h5{
-    color:black;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+
 
 /*recomended*/
 .recommended{
@@ -214,31 +196,8 @@
     width: 100%;
     height:fit-content;
 }
-.content {
-    color: blueviolet;
-    position:RELATIVE;
-    width: 30%;
-    bottom:500px;
-    padding: 30px;
-    left: 60%;
-    color:black;
-    font-weight: 30px;
-    border-radius: 20px;
-   background: rgba(170, 2, 173, 0.2);
-}
-.content p{
-    color:white;
-}
-.content button{
-    background-color: blueviolet;
-    border-radius: 10px;
-    padding: 5px;
-    color:rgb(29, 29, 29);
-    width: 30%;
-}
-.content button:hover{
-    background-color: rgb(196, 139, 249);
-}
+
+   
 /*footer*/
 .footer{
     padding: 10px;
